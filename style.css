@@ -3,7 +3,6 @@
 main {
     width: 360px;
     margin: 0 auto;
-    background-color: pink;
 }
 
 h1 {
@@ -13,6 +12,7 @@ h1 {
 }
 
 textarea {
+    margin-top: 8px;
     width: 100%;
     box-sizing: border-box;
     height: 160px;
