@@ -1,7 +1,13 @@
-p {
-    margin: 0;
+@charset "utf-8";
+
+main {
+    width: 360px;
+    margin: 0 auto;
+    background-color: pink;
 }
 
-body {
+h1 {
     margin: 0;
+    font-size: 22px;
+    text-align: center;
 }
